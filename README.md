@@ -1,4 +1,4 @@
-# Pearson_HND_Computing-Unit10_Web_Design_and_Development
+# LSU Online Library Management System Website
 
 Assignment Brief- 
     Borrowing books, returning books or viewing the available books at the Library of the Lowa State University is currently done manually. Online Library Management System supports to overcome the above-mentioned problems. This system would be used by members who may be students or professors of that University to check the availability of the books and borrow the books., The librarian can update the member details and the book lending details. Online Library Management System will include the following information.
